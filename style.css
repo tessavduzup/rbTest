@@ -1,0 +1,30 @@
+/*
+Theme Name: Rocket Business Theme
+Theme URI: https://wordpress.org/themes/rocketB-theme/
+Author: Сергей Петрушин
+Description: Тестовое задание
+Version: 1.2
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #A1A1A1;
+}
+
+footer {
+    background-color: #A1A1A1;
+}
+
+.main-div {
+    min-width: 100vh;
+    min-height: 48vh;
+}
+
+.block-head {
+    font-family: 'Vela Sans GX', serif;
+    font-size: 36px;
+}
